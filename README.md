@@ -12,6 +12,6 @@
 dart_learning/
 ├── 📌 Fundamentos/    # Experimentos iniciais..
 ├── 🏗️ OOP/          # Pilares da programação orientada a objetos
-├── ⚔️ cbl_challenges # Codeforces + Leetcode +  Beecrowd
+├── ⚔️ cbl_challenges # Codeforces + Leetcode + Beecrowd
 ├── O resto é irrelevante no momento
 └── 🛠️ Projetos/    # Projetos-testes (caixa de areia criativa)
