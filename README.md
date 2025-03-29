@@ -10,8 +10,8 @@
 ## 🌱 Estrutura ? Ou o que restou disso..
 ```bash
 dart_learning/
-├── 📌 fundamentos/    # Experimentos iniciais
-├── 🧩 Coleções/      # Listas, Maps e Sets (onde a mágica acontece)
+├── 📌 Fundamentos/    # Experimentos iniciais..
 ├── 🏗️ OOP/          # Pilares da programação orientada a objetos
+├── ⚔️ cbl_challenges # Codeforces + Leetcode +  Beecrowd
 ├── O resto é irrelevante no momento
-└── 🛠️ rascunhos/    # Projetos-testes (caixa de areia criativa)
+└── 🛠️ Projetos/    # Projetos-testes (caixa de areia criativa)
